@@ -1,0 +1,14 @@
+Wanneer we programmeren leren leer ik programmeren
+...
+
+Zelfstandig naamwoord == class
+werkwoord == functie
+
+blabla
+een molecuul is blabla
+temperatuur is uitgezette moleculen
+Kou is een lage temperatuur
+
+
+Doe gesmolten kaas
+    Als het koud is
